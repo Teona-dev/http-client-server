@@ -5,7 +5,7 @@
 
 ## Демо
 
-[Посмотреть развернутый проект (Render.com)](hhttps://http-client-server-o6k5.onrender.com)  
+[Посмотреть развернутый проект Render.com](hhttps://http-client-server-o6k5.onrender.com)  
 [Репозиторий на GitHub](https://github.com/Teona-dev/http-client-server)
 
 
