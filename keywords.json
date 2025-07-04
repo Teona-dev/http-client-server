@@ -1,0 +1,9 @@
+{
+  "news": [
+    "https://www.w3.org/TR/PNG/iso_8859-1.txt",
+    "https://raw.githubusercontent.com/mdn/content/main/files/en-us/index.md"
+  ],
+  "tech": [
+    "https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore"
+  ]
+}
