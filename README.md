@@ -13,12 +13,19 @@
 ## Структура проекта
 
 http-client-server/
+
 ├── server.js
+
 ├── keywords.json
+
 ├── package.json
+
 ├── client/
+
 │ ├── index.html
+
 │ ├── style.css
+
 │ └── main.js
 
 
@@ -54,14 +61,14 @@ http://localhost:3000
 
 
 Возможности
--Поиск URL по ключевому слову
--Загрузка содержимого файлов
--Просмотр содержимого
--Хранение загруженных данных в localStorage браузера
--Кроссплатформенность
+- Поиск URL по ключевому слову
+- Загрузка содержимого файлов
+- Просмотр содержимого
+- Хранение загруженных данных в localStorage браузера
+- Кроссплатформенность
 
 Используемые технологии
 
--Frontend: HTML, CSS, JavaScript
--Backend: Node.js, Express, CORS, node-fetch
--Деплой: Render.com
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express, CORS, node-fetch
+- Деплой: Render.com
